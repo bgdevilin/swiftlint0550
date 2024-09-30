@@ -1,0 +1,1 @@
+# swiftlint0550
